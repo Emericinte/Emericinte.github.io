@@ -1,6 +1,6 @@
 # Emeric Frontend 
 
-![Design preview for the Intro component with sign up form coding challenge](./images/screenshot.png)
+![Design preview](./images/screenshot.png)
 
 ## Welcome! 👋
 
